@@ -10,7 +10,7 @@ import Countries from './components/Countries';
 import Process from './components/Process';
 import Testimonials from './components/Testimonials';
 import Gallery from './components/Gallery';
-import CTABand from './components/CTABand';
+import CTABand from './components/CtaBand';
 import Contact from './components/Contact';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
